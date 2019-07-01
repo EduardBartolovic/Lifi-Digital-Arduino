@@ -25,6 +25,8 @@ Circuit two is made to receive data. 3 cables, an LDR and a 10K ohm resistor are
 
 5. Connect the non-connected side of the Ohm resistor to the ground on the Arduino.
 
+![1](F8BHLYFJBE12V9Z.LARGE.jpg.webp)
+![2](FFPB0OKJBE12VLR.LARGE.jpg.webp)
 
 ### Sources:
 
